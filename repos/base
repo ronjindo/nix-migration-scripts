@@ -1,0 +1,13 @@
+backend
+db-consumer
+db-repository
+development-environment
+devops
+logger
+lsports-messages-proxy
+migrator
+pre-match-updates-db-updater
+queue-loader
+virtual-screen
+worker
+web
